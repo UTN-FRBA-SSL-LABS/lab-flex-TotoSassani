@@ -179,7 +179,7 @@ El doble es: 8
 
 ### Contexto
 
-Un analizador léxico real no imprime texto: **retorna tokens** al parser. Cada token es un valor entero que identifica el tipo léxico. La variable `yylval` transporta el valor semántico (el número encontrado, por ejemplo)
+Un analizador léxico real no imprime texto: **retorna tokens** al parser. Cada token es un valor entero que identifica el tipo léxico. La variable `yylval` transporta el valor semántico (el número encontrado, por ejemplo).
 
 ### Qué hacer
 
