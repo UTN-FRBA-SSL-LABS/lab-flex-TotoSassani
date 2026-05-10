@@ -214,7 +214,7 @@ TOKEN IDENT (259) lexema=resultado
 
 ## Preguntas de reflexión (10 pts)
 
-Respondé cada pregunta reemplazando el espacio en blanco con la opción correcta.
+Respondé cada pregunta reemplazando el espacio en blanco con la opción correcta
 
 **P1** — Cuando Flex no encuentra ninguna regla que coincida con un carácter y **no hay regla comodín**, ¿qué hace por defecto?
 Opciones: `ECHO` | `IGNORA` | `ERROR`
