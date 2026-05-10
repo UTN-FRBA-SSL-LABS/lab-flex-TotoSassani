@@ -234,7 +234,7 @@ P2=LA_PRIMERA
 Opciones: `SI` | `NO`
 
 ```
-P3=SI
+P3=NO
 ```
 
 ---
